@@ -1,0 +1,10 @@
+C:\Users\Kalen\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Kalen\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Kalen\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kalen\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+C:\Users\Kalen\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+G:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+G:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+G:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\bin\Debug\Lab7.exe
+G:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\bin\Debug\Lab7.pdb
+G:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab7\Lab7\obj\x86\Debug\ResolveAssemblyReference.cache

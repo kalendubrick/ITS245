@@ -1,0 +1,5 @@
+I:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab5\Lab5\bin\Debug\Lab5.exe
+I:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab5\Lab5\bin\Debug\Lab5.pdb
+I:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab5\Lab5\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab5\Lab5\obj\x86\Debug\Lab5.exe
+I:\Dropbox\Purdue\2012_2013-Spring\ITS245\Lab5\Lab5\obj\x86\Debug\Lab5.pdb

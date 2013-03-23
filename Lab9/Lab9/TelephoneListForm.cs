@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Lab9
+{
+    public partial class TelephoneListForm : Form
+    {
+        public TelephoneListForm()
+        {
+            InitializeComponent();
+
+            // wire the button
+            btnEnter.Click += btnEnter_Click;
+        }
+
+        private void btnEnter_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
